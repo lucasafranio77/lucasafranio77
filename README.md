@@ -1,16 +1,14 @@
-### Hi there 👋
+![minha capa de perfil](./capa_auto_x1.png)
 
-<!--
-**lucasafranio77/lucasafranio77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, sou Lucas Afrânio! 😎
 
-Here are some ideas to get you started:
+Apaixonado por tecnologia e design, acredito no seu poder transformador abrindo um mundo de possibilidades. Sou um especialista em UI/UX, vejo o design como negócio, experiência,interação e estou sempre em busca de conhecimento na área para me aperfeiçoar como Designer. Também tenho experiência com gestão e produção de artes para redes sociais e gestão de projetos. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Formado em Ciência da Computação pela Universidade Federal de Mato Grosso, UFMT. <br />
+
+📌 Cuiabá, Mato Grosso, Brasil <br />
+💼 Atualmente trabalhando como UX/UI Designer na Harvest Hub
+
+### Minhas redes sociais
+
+**[Linkedin](https://www.linkedin.com/in/lucas-afranio/)** • **[Behance](https://www.behance.net/lucasafranio)** • **[Dribbble](https://dribbble.com/lucasafranio)** • **[Instagram](https://www.instagram.com/lucas.afranio/)**  <br />
