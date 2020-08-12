@@ -1,4 +1,4 @@
-![minha capa de perfil](./capa_auto_x1.png)
+![minha capa de perfil](https://github.com/lucasafranio77/lucasafranio77/blob/master/capa_auto_x1.png)
 
 # Hey, sou Lucas Afrânio! 😎
 
